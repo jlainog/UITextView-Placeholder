@@ -7,7 +7,7 @@ you'll find a category holding this line
 <pre>
 @property (nonatomic, strong) IBInspectable NSString *placeholder;
 </pre>
-this do all the magic, so in IB you can find a field to set the placeholder text you want to use   
+this does all the magic, so in IB you can find a field to set the placeholder text you want to use   
 
 <img border="0" src="./IB_Inspector.png" alt="IB" width="261" height="238">
 
